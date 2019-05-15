@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/Animation.cpp.o ./Debug/common.cpp.o ./Debug/Worker.cpp.o ./Debug/Ship.cpp.o
